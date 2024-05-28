@@ -1,0 +1,10 @@
+Seagate | 1000GB | 5400rpm | 32MB | SATA | 2.5  |  Pret: 200.0 RON
+Kingston | 500GB | 7200rpm | 128MB | SATA | 2.5  |  Pret: 150.0 RON
+Samsung | 500GB | 5400rpm | 256MB | SATA | 3.5  |  Pret: 150.0 RON
+Western Digital | 500GB | 7200rpm | 64MB | SATA | 3.5  |  Pret: 150.0 RON
+Seagate | 500GB | 5400rpm | 32MB | SATA | 2.5  |  Pret: 100.0 RON
+Kingston | 1000GB | 7200rpm | 128MB | SATA | 3.5  |  Pret: 150.0 RON
+Samsung | 1000GB | 5400rpm | 64MB | SATA | 2.5  |  Pret: 200.0 RON
+Western Digital | 1000GB | 7200rpm | 256MB | SATA3 | 3.5  |  Pret: 250.0 RON
+Seagate | 500GB | 5400rpm | 32MB | SATA | 2.5  |  Pret: 100.0 RON
+Samsung | 1000GB | 7200rpm | 128MB | SATA | 3.5  |  Pret: 200.0 RON

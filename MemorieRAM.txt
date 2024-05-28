@@ -1,0 +1,12 @@
+Corsair | 8GB | DDR3 | 1333MHz | CL16 | 1.35V  |  Pret: 50.0 RON
+Kingston | 16GB | DDR3 | 1600MHz | CL15 | 1.2V  |  Pret: 100.0 RON
+ADATA | 32GB | DDR3 | 1600MHz | CL16 | 1.35V  |  Pret: 200.0 RON
+ADATA | 64GB | DDR3 | 1600MHz | CL16 | 1.35V  |  Pret: 300.0 RON
+Kingston | 8GB | DDR4 | 3200MHz | CL15 | 1.2V  |  Pret: 100.0 RON
+ADATA | 16GB | DDR4 | 3200MHz | CL16 | 1.2V  |  Pret: 200.0 RON
+Corsair | 32GB | DDR4 | 3200MHz | CL16 | 1.35V  |  Pret: 400.0 RON
+Corsair | 64GB | DDR4 | 3200MHz | CL16 | 1.35V  |  Pret: 700.0 RON
+Kingston | 8GB | DDR5 | 5200MHz | CL40 | 1.25V  |  Pret: 200.0 RON
+Kingston | 16GB | DDR5 | 5200MHz | CL40 | 1.25V  |  Pret: 400.0 RON
+ADATA | 32GB | DDR5 | 5200MHz | CL40 | 1.25V  |  Pret: 500.0 RON
+Corsair | 64GB | DDR5 | 5200MHz | CL40 | 1.3V  |  Pret: 1000.0 RON
